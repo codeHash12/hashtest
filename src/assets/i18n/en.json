@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "title": "Arrive. Discover. Experience.",
+    "subtitle": "Personalised transportation designed for travel",
+    "form": {
+      "cityPlaceholder": "City or destination",
+      "fromPlaceholder": "From (airport, port, address)",
+      "toPlaceholder": "To (airport, port, address)",
+      "pickupDate": "Pickup date",
+      "time": "Time",
+      "passengers": "Passengers",
+      "luggagePieces": "Luggage pieces",
+      "continue": "Continue"
+    }
+  },
+  "header": {
+    "howItWorks": "How it works",
+    "destinations": "Destinations",
+    "aboutUs": "About us",
+    "partners": "Partners",
+    "bookNow": "Book Now"
+  },
+  "features": {
+    "title": "Why Choose Welcome Pickups",
+    "personalizedExperience": {
+      "title": "Personalized Experience",
+      "description": "Tailored services to meet your specific needs and preferences"
+    },
+    "localExpertise": {
+      "title": "Local Expertise",
+      "description": "Professional local drivers with extensive knowledge"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Round-the-clock customer service in multiple languages"
+    }
+  }
+}

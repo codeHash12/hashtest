@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "title": "Llega. Descubre. Experimenta.",
+    "subtitle": "Transporte personalizado diseñado para viajar",
+    "form": {
+      "cityPlaceholder": "Ciudad o destino",
+      "fromPlaceholder": "Desde (aeropuerto, puerto, dirección)",
+      "toPlaceholder": "Hasta (aeropuerto, puerto, dirección)",
+      "pickupDate": "Fecha de recogida",
+      "time": "Hora",
+      "passengers": "Pasajeros",
+      "luggagePieces": "Piezas de equipaje",
+      "continue": "Continuar"
+    }
+  },
+  "header": {
+    "howItWorks": "Cómo funciona",
+    "destinations": "Destinos",
+    "aboutUs": "Sobre nosotros",
+    "partners": "Socios",
+    "bookNow": "Reservar ahora"
+  },
+  "features": {
+    "title": "Por qué elegir Welcome Pickups",
+    "personalizedExperience": {
+      "title": "Experiencia Personalizada",
+      "description": "Servicios adaptados a tus necesidades y preferencias específicas"
+    },
+    "localExpertise": {
+      "title": "Experiencia Local",
+      "description": "Conductores profesionales locales con amplio conocimiento"
+    },
+    "support": {
+      "title": "Soporte 24/7",
+      "description": "Servicio al cliente las 24 horas en varios idiomas"
+    }
+  }
+}
